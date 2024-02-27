@@ -4,6 +4,8 @@
 
 # App Run Android emulator
 
+![](mytodo/mytodo.gif)
+
 <p>This project has been done with pure React native.
 To run the application, you must open the icon with its name where you can perform the desired tasks, such as adding a new task, selecting a completed task and, finally, deleting the task.</p>
 
