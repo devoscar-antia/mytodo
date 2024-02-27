@@ -1,6 +1,6 @@
 # Mytodoapp
 
-<p>This project is a task list to create your tasks for the day, where you can add, select, cross out and delete tasks already done. As a detail, the task you create saves the exact time it was created so that you can keep in mind the date and time you created the task.</p>p>
+<p>This project is a task list to create your tasks for the day, where you can add, select, cross out and delete tasks already done. As a detail, the task you create saves the exact time it was created so that you can keep in mind the date and time you created the task.</p>
 
 # App Run Android emulator
 
